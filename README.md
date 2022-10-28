@@ -1,7 +1,7 @@
 # PDF2Keywords
 This Jupyter Notebook shows the conversion of a PDF to 5 Keywords per page by NLP Rake algorithm.
  
- # Install
+ ## Install
  
  Tested with Anaconda on Windows -> see environment.yml. 
  
@@ -21,5 +21,5 @@ This Jupyter Notebook shows the conversion of a PDF to 5 Keywords per page by NL
  pip3 install PyPDF2
  ```
  
- #Usage
+ ## Usage
  A file dialogs opens for PDF selection and the 5 top rated keywords per page from Rake are printed to console. 
